@@ -1,0 +1,10 @@
+variable "project" {}
+variable "region" {}
+variable "zone" {}
+variable "instance_name" {}
+variable "instance_group_name" {}
+variable "machine_type" {}
+variable "image" {}
+variable "instance_tags" {}
+variable "network" {}
+variable "subnetwork" {}
